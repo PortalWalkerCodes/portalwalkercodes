@@ -1,4 +1,6 @@
-
+Hi. I am **Atticus** A 14 year old Developer.
+I am working on DayRing. A productivity superpower at my own orginazation Portal Appz LLC
+I love playing violin and I am working on the Mendelsshon violin concerto!
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
