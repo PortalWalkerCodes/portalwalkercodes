@@ -2,7 +2,7 @@
 
 I'm a **14-year-old developer** and founder of **Portal Appz LLC**.
 
-🚀 I'm currently building **DayRing** — an AI-powered productivity platform designed to help people organize their work, email, and daily life.
+🚀 I'm currently building **DayRing** — a smart productivity platform designed to help people organize their work, email, and daily life.
 
 Outside of programming, I enjoy playing the violin and am currently learning the **Mendelssohn Violin Concerto**.
 
